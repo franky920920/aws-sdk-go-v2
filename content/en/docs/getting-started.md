@@ -13,9 +13,9 @@ go version
 
 For information about installing or upgrading your version of Go, see https://golang.org/doc/install.
 
-## Get an Amazon Account
+## Get an AWS Account
 
-Before you can use the AWS SDK for Go V2, you must have an Amazon account.
+Before you can use the AWS SDK for Go V2, you must have an AWS account.
 See [How do I create and activate a new AWS account?](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
 for details.
 
